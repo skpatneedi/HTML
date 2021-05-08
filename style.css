@@ -1,0 +1,42 @@
+h1 {
+    color:black;
+    font-family:Georgia;
+    font-size: 40px;
+}
+h2{
+    color: black;
+    font-family: Georgia;
+    font-size: 35px;
+}
+p{
+    color: black;
+    font-family: Georgia;
+    font-size: 25px;
+}
+.Heading{
+
+    background-color:aqua;
+   
+}
+.html_links{
+    background-color: white;
+}
+.Message{
+    font-size: 15px;
+    font-style: italic;
+    background-color:aqua;
+    font-family: Georgia;
+}
+.Game_Links{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 20px;
+}
+.Social_Media_Links{
+    background-color: aqua;
+    display:flex;
+    justify-content: center;
+    align-items:flex-end;
+}
